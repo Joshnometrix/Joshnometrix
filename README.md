@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Joshnometrix
 - 👀 I’m interested in Data Analytics.
-- 🌱 I’m currently learning Data Analytics skills.
-- 💞️ I’m looking to collaborate on Data Analytics projects (SQL and PowerBI)
+- 🌱 I’m currently into Data Analytics.
+- 💞️ I’m looking to collaborate on Data Analytics projects (Excel, SQL and PowerBI)
 - 📫 You can reach me on LinkedIn and joshnometrix@gmail.com
 
 <!---
